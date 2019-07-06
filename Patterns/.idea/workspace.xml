@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6434ac01-77c9-4914-bd73-d4bb25ef6b48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PatternsAndDesigns/src/pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PatternsAndDesigns/src/pattern7.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PatternsAndDesigns/src/pattern6.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="259">
               <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PatternsAndDesigns/src/pattern7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -48,6 +57,7 @@
         <option value="$PROJECT_DIR$/PatternsAndDesigns/src/pattern4.java" />
         <option value="$PROJECT_DIR$/PatternsAndDesigns/src/pattern5.java" />
         <option value="$PROJECT_DIR$/PatternsAndDesigns/src/pattern6.java" />
+        <option value="$PROJECT_DIR$/PatternsAndDesigns/src/pattern7.java" />
       </list>
     </option>
   </component>
@@ -106,16 +116,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.pattern6">
+  <component name="RunManager" selected="Application.pattern7">
     <configuration name="Pattern0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern0" />
-      <module name="PatternsAndDesigns" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern2" />
       <module name="PatternsAndDesigns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -149,13 +152,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern7" />
+      <module name="PatternsAndDesigns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern7" />
         <item itemvalue="Application.pattern6" />
         <item itemvalue="Application.pattern5" />
         <item itemvalue="Application.pattern4" />
         <item itemvalue="Application.pattern3" />
-        <item itemvalue="Application.pattern2" />
       </list>
     </recent_temporary>
   </component>
@@ -251,6 +261,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PatternsAndDesigns/src/pattern7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
         </state>
       </provider>
     </entry>
