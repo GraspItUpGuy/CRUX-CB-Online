@@ -27,7 +27,7 @@ public class pattern17 {
                 nst = nst-1;
             }else {
                 nsp = nsp-2;
-                nst = nst +1g;
+                nst = nst +1;
 
             }
 
