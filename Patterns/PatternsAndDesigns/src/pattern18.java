@@ -32,7 +32,7 @@ public class pattern18 {
                nst+=2;
            }else {
                nsp++;
-               nst-g=2;
+               nst-=2;
            }
 
 
