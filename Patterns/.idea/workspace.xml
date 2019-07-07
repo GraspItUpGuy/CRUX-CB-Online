@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6434ac01-77c9-4914-bd73-d4bb25ef6b48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PatternsAndDesigns/src/pattern22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternsAndDesigns/pattern19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternsAndDesigns/pattern19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PatternsAndDesigns/src/pattern26.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,19 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PatternsAndDesigns/src/pattern22.java">
+        <entry file="file://$PROJECT_DIR$/PatternsAndDesigns/src/pattern26.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PatternsAndDesigns/src/pattern21.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+            <state relative-caret-position="262">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -85,6 +74,7 @@
         <option value="$PROJECT_DIR$/PatternsAndDesigns/src/pattern19.java" />
         <option value="$PROJECT_DIR$/PatternsAndDesigns/src/pattern20.java" />
         <option value="$PROJECT_DIR$/PatternsAndDesigns/src/pattern22.java" />
+        <option value="$PROJECT_DIR$/PatternsAndDesigns/src/pattern26.java" />
       </list>
     </option>
   </component>
@@ -143,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.pattern22">
+  <component name="RunManager" selected="Application.pattern26">
     <configuration name="Pattern0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern0" />
       <module name="PatternsAndDesigns" />
@@ -153,13 +143,6 @@
     </configuration>
     <configuration name="pattern12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern12" />
-      <module name="PatternsAndDesigns" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pattern15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern15" />
       <module name="PatternsAndDesigns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -193,13 +176,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern26" />
+      <module name="PatternsAndDesigns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern26" />
         <item itemvalue="Application.pattern22" />
         <item itemvalue="Application.pattern20" />
         <item itemvalue="Application.pattern19" />
         <item itemvalue="Application.pattern16" />
-        <item itemvalue="Application.pattern15" />
       </list>
     </recent_temporary>
   </component>
@@ -225,12 +215,12 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.097165994" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.04048583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Messages" weight="0.3295129" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.51862466" />
@@ -440,8 +430,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PatternsAndDesigns/src/pattern22.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="702">
           <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PatternsAndDesigns/src/pattern26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
