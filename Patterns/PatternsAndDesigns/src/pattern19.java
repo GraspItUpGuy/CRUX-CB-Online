@@ -1,0 +1,35 @@
+public class pattern19 {
+    public static void main(String[] args){
+        int n=7;
+        int nst= n;
+        int nsp=0;
+
+        int row=1;
+        while(row<=n){
+            // stars
+            for(int cst=1; cst<=nst; cst++){
+                System.out.print(" * g");
+            }
+
+            // spaces
+            for(int csp = 1; csp<=nsp; csp++ ){
+                System.out.print("   ");
+            }
+            // stars
+            for(int cst=1; cst<=nst; cst++){
+                System.out.print(" * ");
+            }
+            System.out.println();
+            if(row <= n/2){
+                nsp = nsp+2;
+                nst = nst-1;
+            }else {
+                nsp = nsp-2;
+                nst = nst +1;
+
+            }
+            row++;
+
+        }
+    }
+}
