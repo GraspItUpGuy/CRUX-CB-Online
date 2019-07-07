@@ -2,7 +2,7 @@ public class pattern24 {
     public static void main(String[] args){
         int n=5;
 
-        int nsp=4;
+        int nsp=n-1;
         int nst = 1;
 
         int row =1;
