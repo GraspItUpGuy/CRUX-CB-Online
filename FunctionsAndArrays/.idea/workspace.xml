@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2370e08a-2c9c-4a8e-9868-aadd9ea27e2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FUnAndArr/FUnAndArr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MAXinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwapInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChallengesAndPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesAndPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/funDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/funDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MAXinArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+            <state relative-caret-position="238">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LinearSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -53,6 +55,7 @@
         <option value="$PROJECT_DIR$/src/SwapInArray.java" />
         <option value="$PROJECT_DIR$/src/arrayOperations.java" />
         <option value="$PROJECT_DIR$/src/MAXinArray.java" />
+        <option value="$PROJECT_DIR$/src/LinearSearch.java" />
       </list>
     </option>
   </component>
@@ -106,9 +109,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MAXinArray">
+  <component name="RunManager" selected="Application.LinearSearch">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayDemo" />
+      <module name="FunctionsAndArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearSearch" />
       <module name="FunctionsAndArrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,20 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="funDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funDemo" />
-      <module name="FunctionsAndArrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.MAXinArray" />
         <item itemvalue="Application.arrayOperations" />
         <item itemvalue="Application.SwapInArray" />
         <item itemvalue="Application.ArrayDemo" />
-        <item itemvalue="Application.funDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -232,8 +235,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MAXinArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        <state relative-caret-position="238">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinearSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
         </state>
       </provider>
     </entry>
