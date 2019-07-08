@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574add96-8500-4b5a-9313-5128bc9620d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ManMohan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section-2/DataTypesAndNumberSystems/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section-2/DataTypesAndNumberSystems/DTandNS/DTandNS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section-2/NumberSystemsAndDataTypes/NumberSystemsAndDataTypes.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NatureOfRootsQE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VonNeumanLovesBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VonNeumanLovesBinary.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ManMohan.java">
+        <entry file="file://$PROJECT_DIR$/src/NatureOfRootsQE.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+            <state relative-caret-position="408">
+              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -46,14 +45,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/ManMohan.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/src/VonNeumanLovesBinary.java" />
+        <option value="$PROJECT_DIR$/src/pattern.java" />
+        <option value="$PROJECT_DIR$/src/NatureOfRootsQE.java" />
       </list>
     </option>
   </component>
@@ -87,6 +81,9 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -99,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ManMohan">
+  <component name="RunManager" selected="Application.NatureOfRootsQE">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="ChallengesAndPatterns" />
@@ -117,12 +114,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NatureOfRootsQE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NatureOfRootsQE" />
+      <module name="ChallengesAndPatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern" />
+      <module name="ChallengesAndPatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ManMohan" />
+      <item itemvalue="Application.pattern" />
+      <item itemvalue="Application.NatureOfRootsQE" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NatureOfRootsQE" />
+        <item itemvalue="Application.pattern" />
         <item itemvalue="Application.ManMohan" />
       </list>
     </recent_temporary>
@@ -149,7 +164,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20166163" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20166163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -180,10 +195,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/VonNeumanLovesBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ManMohan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        <state relative-caret-position="108">
+          <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NatureOfRootsQE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
         </state>
       </provider>
     </entry>
