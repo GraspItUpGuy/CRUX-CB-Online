@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574add96-8500-4b5a-9313-5128bc9620d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NatureOfRootsQE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VonNeumanLovesBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VonNeumanLovesBinary.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NatureOfRootsQE.java">
+        <entry file="file://$PROJECT_DIR$/src/pattern2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+            <state relative-caret-position="378">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -48,6 +46,7 @@
         <option value="$PROJECT_DIR$/src/VonNeumanLovesBinary.java" />
         <option value="$PROJECT_DIR$/src/pattern.java" />
         <option value="$PROJECT_DIR$/src/NatureOfRootsQE.java" />
+        <option value="$PROJECT_DIR$/src/pattern2.java" />
       </list>
     </option>
   </component>
@@ -82,6 +81,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
@@ -96,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NatureOfRootsQE">
+  <component name="RunManager" selected="Application.pattern2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="ChallengesAndPatterns" />
@@ -128,14 +128,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern2" />
+      <module name="ChallengesAndPatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ManMohan" />
       <item itemvalue="Application.pattern" />
       <item itemvalue="Application.NatureOfRootsQE" />
+      <item itemvalue="Application.pattern2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern2" />
         <item itemvalue="Application.NatureOfRootsQE" />
         <item itemvalue="Application.pattern" />
         <item itemvalue="Application.ManMohan" />
@@ -164,7 +173,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20166163" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20166163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -209,17 +218,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern.java">
+    <entry file="file://$PROJECT_DIR$/src/NatureOfRootsQE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        <state relative-caret-position="165">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NatureOfRootsQE.java">
+    <entry file="file://$PROJECT_DIR$/src/pattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        <state relative-caret-position="183">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
