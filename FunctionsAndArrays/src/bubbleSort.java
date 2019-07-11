@@ -20,9 +20,9 @@ public class bubbleSort {
     public static void bubbleSort(int[] arr){
         int temp;
 
-        System.out.println("\nSee the steps");
+
         for(int counter =0; counter<arr.length -1; counter ++){
-           for(int j=0; j<arr.length-1; j++){
+           for(int j=0; j<arr.length-1-counter; j++){
 
                if(arr[j+1]< arr[j]){
                   temp = arr[j+1];
@@ -32,10 +32,6 @@ public class bubbleSort {
 
            }
 
-
-            for(int i=0; i<arr.length;i++){
-                System.out.print(arr[i] + ",");
-            }
         }
     }
 
