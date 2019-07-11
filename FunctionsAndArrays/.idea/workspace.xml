@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2370e08a-2c9c-4a8e-9868-aadd9ea27e2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AllSortPractice.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +17,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/InsertionSort.java">
+        <entry file="file://$PROJECT_DIR$/src/AllSortPractice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            <state relative-caret-position="270">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="10" selection-end-column="28" />
+              <folding>
+                <element signature="method#Swap#0;class#AllSortPractice#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,6 +54,7 @@
         <option value="$PROJECT_DIR$/src/bubbleSort.java" />
         <option value="$PROJECT_DIR$/src/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/AllSortPractice.java" />
       </list>
     </option>
   </component>
@@ -104,7 +108,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InsertionSort">
+  <component name="RunManager" selected="Application.AllSortPractice">
+    <configuration name="AllSortPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllSortPractice" />
+      <module name="FunctionsAndArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InsertionSort" />
       <module name="FunctionsAndArrays" />
@@ -133,20 +144,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseArray" />
-      <module name="FunctionsAndArrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AllSortPractice" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.bubbleSort" />
         <item itemvalue="Application.binarySearch" />
-        <item itemvalue="Application.reverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +180,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6017192" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6017192" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -265,15 +269,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="302">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="162">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AllSortPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="method#Swap#0;class#AllSortPractice#0" />
+          </folding>
         </state>
       </provider>
     </entry>
