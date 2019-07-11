@@ -1,6 +1,8 @@
 public class binarySearch {
     public static void main(String[] args){
         // arrary must be sorted either in increasing or in decreasing
+        // number of comparisons made using binary search is logN base 2
+        // whereas in linear learch N comparisons are made
 
         int[] arr = {1,6,8,9,14,17,27,32,35,37,42,44,49,51,55};
         birnarySearch(arr, 42);
