@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="387eda7d-5a04-49a4-99b7-d012974251db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wavePrintC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KTHroot.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,20 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/wavePrint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/wavePrintC.java">
+        <entry file="file://$PROJECT_DIR$/src/KTHroot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="992">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="384">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -62,6 +52,7 @@
         <option value="$PROJECT_DIR$/src/wavePrint.java" />
         <option value="$PROJECT_DIR$/src/tripletSum.java" />
         <option value="$PROJECT_DIR$/src/wavePrintC.java" />
+        <option value="$PROJECT_DIR$/src/KTHroot.java" />
       </list>
     </option>
   </component>
@@ -116,16 +107,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.wavePrintC">
-    <configuration name="SumOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfTwoArrays" />
+  <component name="RunManager" selected="Application.KTHroot">
+    <configuration name="KTHroot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KTHroot" />
       <module name="2dArrayAndArrayList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="targetProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="targetProblem" />
+    <configuration name="SumOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfTwoArrays" />
       <module name="2dArrayAndArrayList" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -154,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KTHroot" />
         <item itemvalue="Application.wavePrintC" />
         <item itemvalue="Application.tripletSum" />
         <item itemvalue="Application.wavePrint" />
         <item itemvalue="Application.SumOfTwoArrays" />
-        <item itemvalue="Application.targetProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +170,7 @@
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17423134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17423134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -254,6 +245,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="992">
           <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KTHroot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
         </state>
       </provider>
     </entry>
