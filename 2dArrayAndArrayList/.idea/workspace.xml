@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="387eda7d-5a04-49a4-99b7-d012974251db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tripletSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wavePrintC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,28 +18,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SumOfTwoArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/wavePrint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="-4">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tripletSum.java">
+        <entry file="file://$PROJECT_DIR$/src/wavePrintC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="992">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -70,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/SumOfTwoArrays.java" />
         <option value="$PROJECT_DIR$/src/wavePrint.java" />
         <option value="$PROJECT_DIR$/src/tripletSum.java" />
+        <option value="$PROJECT_DIR$/src/wavePrintC.java" />
       </list>
     </option>
   </component>
@@ -124,16 +116,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.tripletSum">
+  <component name="RunManager" selected="Application.wavePrintC">
     <configuration name="SumOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumOfTwoArrays" />
-      <module name="2dArrayAndArrayList" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="spiralPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spiralPrint" />
       <module name="2dArrayAndArrayList" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,13 +145,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="wavePrintC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wavePrintC" />
+      <module name="2dArrayAndArrayList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.wavePrintC" />
         <item itemvalue="Application.tripletSum" />
         <item itemvalue="Application.wavePrint" />
         <item itemvalue="Application.SumOfTwoArrays" />
         <item itemvalue="Application.targetProblem" />
-        <item itemvalue="Application.spiralPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -244,17 +236,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/wavePrint.java">
+    <entry file="file://$PROJECT_DIR$/src/tripletSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="340">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tripletSum.java">
+    <entry file="file://$PROJECT_DIR$/src/wavePrint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="-4">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wavePrintC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
