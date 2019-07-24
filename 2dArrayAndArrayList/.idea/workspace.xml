@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="387eda7d-5a04-49a4-99b7-d012974251db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SumOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wavePrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tripletSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/wavePrint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="544">
               <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tripletSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -62,6 +69,7 @@
         <option value="$PROJECT_DIR$/src/targetProblem.java" />
         <option value="$PROJECT_DIR$/src/SumOfTwoArrays.java" />
         <option value="$PROJECT_DIR$/src/wavePrint.java" />
+        <option value="$PROJECT_DIR$/src/tripletSum.java" />
       </list>
     </option>
   </component>
@@ -116,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.wavePrint">
+  <component name="RunManager" selected="Application.tripletSum">
     <configuration name="SumOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumOfTwoArrays" />
       <module name="2dArrayAndArrayList" />
@@ -138,8 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twoDarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twoDarray" />
+    <configuration name="tripletSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tripletSum" />
       <module name="2dArrayAndArrayList" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -154,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tripletSum" />
         <item itemvalue="Application.wavePrint" />
         <item itemvalue="Application.SumOfTwoArrays" />
         <item itemvalue="Application.targetProblem" />
         <item itemvalue="Application.spiralPrint" />
-        <item itemvalue="Application.twoDarray" />
       </list>
     </recent_temporary>
   </component>
@@ -238,8 +246,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/wavePrint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="544">
           <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tripletSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
