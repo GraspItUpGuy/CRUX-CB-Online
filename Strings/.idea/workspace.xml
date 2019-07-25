@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdedf990-d193-4947-b1f0-90f306ebfb49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SBperformance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringBuilderTut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2dArrayAndArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2dArrayAndArrayList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringChallenges/StringChallenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringChallenges/src/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringChallenges/src/problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Strings/StringBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Strings/StringBasics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringBasics.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,20 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringBuilderTut.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StringChallenges/src/problem2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+            <state relative-caret-position="447">
+              <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/StringBasics.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StringChallenges/src/Problem1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-557">
-              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+            <state relative-caret-position="64">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -58,6 +59,8 @@
         <option value="$PROJECT_DIR$/src/StringBuilderTut.java" />
         <option value="$PROJECT_DIR$/src/SBperformance.java" />
         <option value="$PROJECT_DIR$/src/StringBasics.java" />
+        <option value="$PROJECT_DIR$/StringChallenges/src/Problem1.java" />
+        <option value="$PROJECT_DIR$/StringChallenges/src/problem2.java" />
       </list>
     </option>
   </component>
@@ -82,6 +85,17 @@
             <path>
               <item name="Strings" type="b2602c69:ProjectViewProjectNode" />
               <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Strings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="StringChallenges" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Strings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="StringChallenges" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -111,7 +125,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringBasics">
+  <component name="RunManager" selected="Application.problem2">
+    <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem1" />
+      <module name="StringChallenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringBasics" />
       <module name="Strings" />
@@ -126,8 +147,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem2" />
+      <module name="StringChallenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem2" />
+        <item itemvalue="Application.Problem1" />
         <item itemvalue="Application.StringBasics" />
         <item itemvalue="Application.StringBuilderTut" />
       </list>
@@ -155,7 +185,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12445095" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15592971" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -163,7 +193,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32962447" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32962447" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -197,6 +227,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-557">
           <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringChallenges/src/Problem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringChallenges/src/problem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
         </state>
       </provider>
     </entry>

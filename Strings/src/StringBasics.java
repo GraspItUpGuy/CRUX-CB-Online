@@ -44,7 +44,7 @@ public class StringBasics {
 //        }
 
 
-        
+
         long start = System.currentTimeMillis();
         appendStringSB(100000);
 
