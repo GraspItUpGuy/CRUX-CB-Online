@@ -1,14 +1,14 @@
 public class StringCompression {
     public static void main(String[] args) {
 
-        String str = "Puneet";
+        String str = "abbcccdddeeeeefffff";
         StringBuilder Cstr = new StringBuilder("");
 
-        int run=0;
+
         int counter = 0;
         for (int i = 0; i < str.length()-1 ; i++) {
 
-            run++;
+
 
             if (str.charAt(i+1) == str.charAt(i)  ) {
                 counter++;
@@ -20,14 +20,14 @@ public class StringCompression {
                     Cstr.append(str.charAt(i));
 
                 }
-                counter =0;
+
             }
 
-
+            counter =0;
 
         }
-        Cstr.append(str.charAt(str.length() -1));
+
         System.out.println(Cstr);
-        System.out.println(run);
+
     }
 }
