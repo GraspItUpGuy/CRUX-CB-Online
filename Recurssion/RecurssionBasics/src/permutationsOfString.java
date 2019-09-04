@@ -7,7 +7,7 @@ public class permutationsOfString {
 
     }// main ended here
 
-    public static ArrayList<String> permutationsOfString(String str){
+    public static ArrayList<String> permutationsOfString(String str) {
 
         if(str.length() == 0){
             ArrayList<String> base = new ArrayList<>();
@@ -17,17 +17,17 @@ public class permutationsOfString {
 
         char ch = str.charAt(0);
         String ros = str.substring(1);
-       ArrayList<String> recResult =  permutationsOfString(ros);
-       ArrayList<String> myResult  = new ArrayList<>();
+       ArrayList<String> rr =  permutationsOfString(ros);
+       ArrayList<String> mr  = new ArrayList<>();
 
 
-       for(String rrs : recResult){
+       for(String rrs : rr){
            for(int i = 0; i<rrs.length(); i++){
                String val = rrs.substring(0,i) + ch + rrs.substring(i);
-               myResult.add(val);
+               mr.add(val);
            }
        }
-       return myResult;
+       return mr;
     }
 
 
