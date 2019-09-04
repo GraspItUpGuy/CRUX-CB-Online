@@ -46,3 +46,12 @@ public class Person {
 // public        => visible everywhere
 // protected     => will study later
 // default       => visible inside same package
+
+
+// static means => it belongs to my class
+//  if Student.no_student is changed and  no_student is static variable
+// then no_student is changed for the entire class
+// if it is not static it gets changed just for that particular object
+
+// static function can only access static data-members
+// non-static function can access static as well as non-static data members
