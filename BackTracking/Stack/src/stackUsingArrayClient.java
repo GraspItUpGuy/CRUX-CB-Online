@@ -27,6 +27,25 @@ public class stackUsingArrayClient {
 //
 //    }
 
+        stackUsingArray stack = new stackUsingArray();
+        for (int i = 1; i <=5 ; i++) {
+            stack.push(i*10);
+            stack.display();
+        }
+        System.out.println();
+
+//        System.out.println( stack.top());
+//        System.out.println(stack.pop());
+//        stack.display();
+//        System.out.println(stack.top());
+
+
+        while (!stack.isEmpty()){
+            stack.display();
+            stack.pop();
+        }
+
+        stack.display();
 
     }
 
